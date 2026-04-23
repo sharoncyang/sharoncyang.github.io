@@ -53,11 +53,11 @@ This Solver-based optimization model identifies the most cost-efficient shipment
 
 #### XLOOKUP for Data Enrichment
 
-::: excel-image-wrap
+::: {.excel-image-wrap}
 <img src="images/spreadsheet3.png" alt="XLOOKUP example" class="project-image excel-image-small"/>
 :::
 
-::: excel-image-caption
+::: {.excel-image-caption}
 This example shows how I used <strong>XLOOKUP</strong> to retrieve the corresponding <strong>median income</strong> for each <strong>income level</strong> from a cleaned reference table. I then divided that value by <strong>family size</strong> to create an <strong>income-per-member</strong> measure, allowing income to be compared more consistently across households of different sizes.
 :::
 

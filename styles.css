@@ -1,5 +1,4 @@
 /* css styles */
-/* css styles */
 
 #quarto-content .content {
   max-width: 1100px;
@@ -149,4 +148,27 @@
   .side-by-side-images {
     flex-direction: column;
   }
+}
+
+
+
+
+/* Spreadsheet */
+
+.excel-image-wrap {
+  text-align: center;
+  margin: 20px 0 10px 0;
+}
+
+.excel-image-small {
+  width: 65%;
+  height: auto;
+  display: inline-block;
+}
+
+.excel-image-caption {
+  max-width: 800px;
+  margin: 0 auto 24px auto;
+  font-size: 0.98rem;
+  line-height: 1.7;
 }
