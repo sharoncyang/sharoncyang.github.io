@@ -157,18 +157,66 @@
 
 .excel-image-wrap {
   text-align: center;
-  margin: 20px 0 10px 0;
+  margin: 16px 0 10px 0;
 }
 
 .excel-image-small {
-  width: 65%;
+  width: 78%;
+  max-width: 900px;
   height: auto;
   display: inline-block;
 }
 
-.excel-image-caption {
-  max-width: 800px;
-  margin: 0 auto 24px auto;
-  font-size: 0.98rem;
-  line-height: 1.7;
+
+
+
+/* Hitachi project */
+.hitachi-preview-row {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.hitachi-preview-item {
+  flex: 1 1 320px;
+  max-width: 380px;
+  text-align: center;
+}
+
+.hitachi-preview-item img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px auto;
+  border-radius: 8px;
+}
+
+.hitachi-preview-single {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.hitachi-preview-single img {
+  width: 100%;
+  max-width: 340px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px auto;
+  border-radius: 8px;
+}
+
+.hitachi-caption {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.5;
+  margin-top: 6px;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
 }
