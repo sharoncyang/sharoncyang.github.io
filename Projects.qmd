@@ -1,0 +1,55 @@
+---
+title: "Projects"
+---
+
+::: project
+<h3>Pricing Analytics Dashboard & Elasticity Insights \| FleetPride</h3>
+
+<p>Industry-sponsored analytics project focused on developing a pricing analytics framework for the aftermarket equipment business.</p>
+
+<p><strong>Skills & Tools:</strong> Python, Excel, Pricing Analytics, KPI Design, Data Visualization</p>
+
+<a href="fleetpride.html" class="learn-more-btn">Learn More</a>
+:::
+
+::: project
+<h3>AiPiann Student Talent Database \| The University of Texas at Dallas</h3>
+
+<p>Collaborative web platform project designed to connect students with companies and job opportunities.</p>
+
+<p><strong>Skills & Tools:</strong> Python, Django, GitHub, QA Testing, System Validation</p>
+
+<a href="aipiann.html" class="learn-more-btn">Learn More</a>
+:::
+
+::: project
+<h3>A/B Testing Case Studies</h3>
+
+<p>Analytics project focused on experiment design, causal inference, and business decision making through A/B testing case analysis.</p>
+
+<p><strong>Skills & Tools:</strong> A/B Testing, Causal Inference, Statistical Analysis, R</p>
+
+<a href="ab-testing.html" class="learn-more-btn">Learn More</a>
+:::
+
+::: project
+<h3>Spreadsheet Modeling</h3>
+
+<p>Business analytics modeling project using spreadsheet tools to solve optimization and decision support problems.</p>
+
+<p><strong>Skills & Tools:</strong> Excel, Solver, PivotTables, XLOOKUP, Decision Analysis</p>
+
+<a href="spreadsheet-modeling.html" class="learn-more-btn">Learn More</a>
+:::
+
+::: project
+<h3>Reverse Mentoring DEI Program \| Hitachi</h3>
+
+<p>Industry-sponsored team project focused on improving cross-generational communication and workplace inclusion through reverse mentoring.</p>
+
+<p><strong>Skills & Tools:</strong> Business Research, Program Design, Communication Strategy, Presentation Design</p>
+
+<a href="hitachi.html" class="learn-more-btn">Learn More</a>
+:::
+
+------------------------------------------------------------------------

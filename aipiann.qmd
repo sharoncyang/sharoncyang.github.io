@@ -1,0 +1,91 @@
+---
+title: "AiPiann Student Talent Database (2026)"
+---
+
+<a href="Projects.html" class="learn-more-btn">Back to Projects</a>
+
+## Project Overview
+
+AiPiann Student Talent Database is a web-based platform designed to connect students and employers through a structured talent discovery system. The platform enables students to present their skills, projects, and career interests, while allowing companies to search for suitable candidates through filters and AI-supported matching.
+
+The project combines profile data collection, dashboard functionality, company-side search features, API integration, and profile enrichment workflows into a unified system. Its development emphasized usability, testing discipline, and product reliability across both user-facing and technical components.
+
+## Key Achievements
+
+- Led quality assurance efforts across major platform workflows
+- Primarily supported the development and validation of company-side features
+- Assisted both frontend and backend development through testing and feature validation
+- Designed structured test plans and test cases to improve feature reliability
+- Strengthened release readiness through regression testing, issue tracking, and workflow validation
+- Helped improve search behavior, interface consistency, and overall platform usability
+
+## My Contribution
+
+I served as the **QA Lead** for the project and primarily supported the development of the **company-side features** of the platform, while also assisting with both **frontend** and **backend** development.
+
+My work focused on improving feature reliability, validating system behavior, and supporting the development of employer-facing workflows. In addition to leading quality assurance efforts, I collaborated with teammates across frontend and backend tasks to help identify issues, verify expected functionality, and improve the overall user experience of the platform.
+
+### QA Leadership
+- Developed structured test plans and feature-based test cases for core platform workflows
+- Documented bugs with clear reproduction steps, severity levels, and validation results
+- Conducted regression testing to ensure fixes and updates maintained expected functionality
+- Performed cross-browser and mobile testing to improve consistency across devices
+- Supported user acceptance testing and release-readiness validation
+
+### Company-Side Development Support
+- Primarily supported the development and validation of employer-facing platform features
+- Assisted in testing company search functionality, filtering behavior, and related workflows
+- Helped identify logic, usability, and interaction issues affecting the company-side experience
+- Verified that company-side workflows aligned with expected functional behavior
+
+### Frontend and Backend Support
+- Assisted with frontend and backend feature validation during development
+- Helped test system behavior across connected components and user flows
+- Supported troubleshooting efforts by identifying issues across implementation logic and feature interaction
+- Collaborated with teammates to improve reliability across both user-facing and technical features
+
+## Platform Preview
+
+![](images/AiPiann1.png)
+
+![](images/AiPiann2.png)
+![](images/AiPiann3.png)
+![](images/AiPiann4.png)
+![](images/AiPiann5.png)
+
+## Business Impact
+
+This project contributed to the development of a more reliable and user-oriented platform for student talent discovery.
+
+Through structured testing and issue validation, my work supported the team in improving the quality of critical workflows such as profile submission, dashboard interaction, search functionality, and feature updates. These efforts helped reduce risk before deployment and improved confidence in the platform’s usability and functional stability.
+
+The project also reflected broader goals around documentation, testing coverage, system performance, and upgrade reliability, all of which were identified as key success standards in the project plan.
+
+## Project Execution & Learning
+
+This experience strengthened my ability to contribute at the intersection of product quality and software development.
+
+By leading testing efforts while also supporting frontend and backend workflows, I developed a stronger understanding of how reliable products are built through both implementation and validation. I also improved my ability to communicate technical issues clearly, organize testing processes, and collaborate within a team environment where functionality, usability, and deployment readiness all had to align.
+
+The project gave me practical experience in quality assurance, issue tracking, cross-functional collaboration, and end-to-end feature validation within a multi-component web platform.
+
+## Tools Used
+
+**Development & Framework**  
+Python, Django, Django Templates, Google Antigravity
+
+**Testing & Validation**  
+Test Planning, Test Case Design, Cross-Browser Testing, User Acceptance Testing, Bug Tracking
+
+**Collaboration & Version Control**  
+Git, GitHub, GitHub Issues
+
+## Next Steps
+
+- Expand test coverage for more advanced platform features
+- Improve testing documentation and known-issue tracking
+- Strengthen validation procedures for future version upgrades
+- Support continued improvement of platform usability and reliability
+- Prepare the system for broader scale, additional data sources, and future feature expansion
+
+<a href="Projects.html" class="learn-more-btn">Back to Projects</a>

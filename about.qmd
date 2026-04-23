@@ -1,0 +1,100 @@
+---
+title: "About Me"
+---
+
+<div style="width: 75%; margin: 0 auto;">
+<div style="text-align: center; margin-bottom: 12px;">
+<img src="images/Person 1.JPG" style="width: 70%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; display: block; margin: 0 auto;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+</div>
+</div>
+
+Hi, I’m Sharon.
+I am originally from Taipei, Taiwan. From a young age, I have always enjoyed exploring different interests and experiences. Growing up, I participated in dance, choir, drama, and piano, and one of my favorite childhood memories was performing with my school choir at Taipei Arena, a major indoor venue in Taipei for concerts and public events.
+
+In 2018, during my second year of high school, I moved to Austin, Texas, and began a new chapter of my life in the United States. As I adjusted to a new environment, I volunteered at an animal shelter with friends, and one of the most meaningful parts of that experience was seeing the animals I cared for find new homes. In 2019, I also received a Regional Medal at the Texas VASE Regional Competition, which reflected my continued love for art and creativity.
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="text-align: center; margin-bottom: 12px;">
+<img src="images/Volun-1.JPG" style="width: 55%; height: auto; border-radius: 6px;">
+</div>
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Volun-2.jpg" style="width: 45%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
+<img src="images/Volun-3.JPG" style="width: 45%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+Volunteer - Austin Humane Society (2019)
+</div>
+</div>
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="text-align: center; margin-bottom: 12px;">
+<img src="images/Paint 1.JPG" style="width: 60%; height: auto; border-radius: 6px;">
+</div>
+<div style="text-align: center; margin-bottom: 12px;">
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Paint 2.jpg" style="width: 60%; height: auto; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+Texas VASE Regional Competition (2019)
+</div>
+</div>
+
+
+Outside of school and work, I enjoy drawing, photography, cooking, singing, and watching anime. These interests continue to shape how I see the world and how I express myself.
+
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Photo 1.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+<img src="images/Photo 2.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+</div>
+</div>
+<div style="width: 80%; margin: 0 auto;">
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Photo 3.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+<img src="images/Photo 4.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+</div>
+</div>
+<div style="width: 80%; margin: 0 auto;">
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Photo 5.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+<img src="images/Photo 6.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+Some Photography
+</div>
+</div>
+
+<p>
+My college years brought many meaningful experiences, especially after I transferred to The University of Texas at Dallas. During my time at UTD, I grew through volunteering, creative projects, academic achievements, and hands-on experiences that eventually led me to continue into the MSBA program.
+<p>
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="text-align: center; margin-bottom: 12px;">
+<img src="images/Volun 4.JPG" style="width: 70%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; display: block; margin: 0 auto;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+Volunteer - Feed My Starving Children (2023)
+</div>
+</div>
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="display: flex; justify-content: center; gap: 12px;">
+<img src="images/Volun 5.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+<img src="images/Volun 5.5.JPG" style="width: 48%; aspect-ratio: 1 / 1.5; object-fit: cover; border-radius: 6px;">
+</div>
+<div style="text-align: right; font-size: 13px; color: rgba(0,0,0,0.5); margin-top: 6px;">
+Volunteer - AIESEC Summer Camp (2023)
+</div>
+</div>
+
+<p>
+This website is a space where I share both my professional journey and the experiences that have shaped who I am. I’m glad you’re here, and I hope this page helps you get to know me a little better. 😊
+<p>
+---

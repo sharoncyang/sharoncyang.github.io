@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sharon Yang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/sharon7691"
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual

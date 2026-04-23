@@ -1,0 +1,71 @@
+---
+title: "A/B Testing Case Studies & Experimental Insights (2025)"
+---
+
+<a href="Projects.html" class="learn-more-btn">Back to Projects</a>
+
+## Project Overview
+
+This project focuses on analyzing a series of A/B testing and experimental design case studies across digital platforms, marketplace operations, and behavioral policy interventions. The objective was to understand how organizations use experimentation to evaluate product changes, measure treatment effects, and make more informed business decisions.
+
+By examining real-world cases from companies and public-sector organizations, the project translated experimental concepts into practical analytical insights. It emphasized not only whether an intervention was statistically effective, but also whether the results were meaningful enough to justify implementation at scale.
+
+## Key Achievements
+
+- Analyzed multiple real-world A/B testing and field experiment cases across product, platform, and policy settings.  
+- Evaluated treatment effects using experimental design logic, hypothesis testing, and confidence interval interpretation.  
+- Assessed both statistical significance and business significance when interpreting experiment results.  
+- Identified potential bias, implementation risk, and trade-offs in experiment design and rollout decisions.  
+- Connected case evidence to clear managerial recommendations supported by data and experimental reasoning.  
+- Strengthened understanding of how experimentation supports decision-making in dynamic business environments.  
+
+## My Contribution: Case Analysis & Experimental Interpretation
+
+While the overall project focused on case-based learning in experimentation and causal inference, my primary responsibility was organizing the analytical structure behind each case and translating experimental results into clear business insights.
+
+The case study analysis involved:
+
+- Defining treatment, control, and primary outcome metrics  
+- Interpreting observed treatment effects and their practical implications  
+- Evaluating statistical significance and confidence intervals  
+- Identifying opportunity cost, risk, and design limitations  
+- Formulating evidence-based recommendations for rollout or further testing  
+
+### Case Study Coverage
+
+The project included experimental analysis across several real-world cases, including:
+
+- **A/B Testing at Vungle**: evaluating the business impact of an updated ad-serving strategy  
+- **Behavioural Insights Team (A)**: examining the use of behavioral nudges in public policy communication  
+- **Behavior Change for Good**: understanding large-scale intervention design and experimentation strategy  
+- **Uber Case**: analyzing experiment trade-offs in platform operations and marketplace performance  
+
+## Business Impact
+
+These case studies illustrate how experimentation creates business value by:
+
+- Reducing decision-making based solely on intuition  
+- Quantifying the effect of product, policy, or operational changes  
+- Supporting evidence-based rollout decisions  
+- Revealing trade-offs between user experience, efficiency, and revenue outcomes  
+- Improving confidence in strategic recommendations through structured testing  
+
+## Project Execution & Learning
+
+This project required more than simply summarizing case materials. It involved breaking down each experiment into its core components, evaluating whether the research design supported causal conclusions, and determining whether the results were strong enough to support real-world action.
+
+By studying cases across different industries and contexts, I gained a stronger understanding of how experimental thinking is applied beyond the classroom, especially when business decisions involve uncertainty, partial evidence, and implementation cost.
+
+This experience strengthened my ability to:
+
+- Break down complex experiments into clear analytical components  
+- Distinguish statistical significance from practical business impact  
+- Recognize limitations in experimental design and external validity  
+- Communicate experimental findings in a structured and decision-oriented way  
+
+## Skills & Tools
+
+A/B Testing | Causal Inference | Statistical Analysis | Experimental Design | Hypothesis Testing | Confidence Intervals | R
+
+
+<a href="Projects.html" class="learn-more-btn">Back to Projects</a>
