@@ -182,41 +182,34 @@
 }
 
 .hitachi-preview-item {
-  flex: 1 1 320px;
+  flex: 0 1 320px;
   max-width: 320px;
   text-align: center;
-}
-
-.hitachi-preview-item img {
-  width: 100% !important;
-  max-width: 260px !important;
-  height: auto !important;
-  display: block;
-  margin: 0 auto 10px auto;
-  border-radius: 8px;
 }
 
 .hitachi-preview-single {
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
-.hitachi-preview-single img {
-  width: 100% !important;
-  max-width: 260px !important;
-  height: auto !important;
+.hitachi-img {
   display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
   margin: 0 auto 10px auto;
   border-radius: 8px;
+}
+
+.hitachi-img-single {
+  max-width: 240px;
 }
 
 .hitachi-caption {
   font-size: 0.9rem;
   color: #8a8f98;
   line-height: 1.5;
-  margin-top: 6px;
   max-width: 280px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 6px auto 0 auto;
 }

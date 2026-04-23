@@ -48,26 +48,35 @@ My work focused on helping shape research-backed content and communication mater
 <div class="hitachi-preview-row">
 
 <div class="hitachi-preview-item">
-  <img src="images/Hitachi1.png" alt="Older Generation Infographic">
-  <p class="hitachi-caption">
-    Infographic I designed for the older generation audience to introduce the program and encourage participation.
-  </p>
+
+![](images/Hitachi1.png){.hitachi-img}
+
+<p class="hitachi-caption">
+Infographic I designed for the older generation audience to introduce the program and encourage participation.
+</p>
+
 </div>
 
 <div class="hitachi-preview-item">
-  <img src="images/Hitachi2.png" alt="Younger Generation Infographic">
-  <p class="hitachi-caption">
-    Infographic I designed for the younger generation audience to introduce the program and encourage participation.
-  </p>
+
+![](images/Hitachi2.png){.hitachi-img}
+
+<p class="hitachi-caption">
+Infographic I designed for the younger generation audience to introduce the program and encourage participation.
+</p>
+
 </div>
 
 </div>
 
 <div class="hitachi-preview-single">
-  <img src="images/Hitachi3.png" alt="Final Infographic">
-  <p class="hitachi-caption">
-    Final infographic summarizing the overall concept and structure of the program.
-  </p>
+
+![](images/Hitachi3.png){.hitachi-img .hitachi-img-single}
+
+<p class="hitachi-caption">
+Final infographic summarizing the overall concept and structure of the program.
+</p>
+
 </div>
 
 ## Business Impact
