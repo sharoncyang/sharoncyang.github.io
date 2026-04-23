@@ -183,14 +183,14 @@
 
 .hitachi-preview-item {
   flex: 1 1 320px;
-  max-width: 380px;
+  max-width: 320px;
   text-align: center;
 }
 
 .hitachi-preview-item img {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
+  width: 100% !important;
+  max-width: 260px !important;
+  height: auto !important;
   display: block;
   margin: 0 auto 10px auto;
   border-radius: 8px;
@@ -203,20 +203,20 @@
 }
 
 .hitachi-preview-single img {
-  width: 100%;
-  max-width: 340px;
-  height: auto;
+  width: 100% !important;
+  max-width: 260px !important;
+  height: auto !important;
   display: block;
   margin: 0 auto 10px auto;
   border-radius: 8px;
 }
 
 .hitachi-caption {
-  font-size: 0.95rem;
-  color: #666;
+  font-size: 0.9rem;
+  color: #8a8f98;
   line-height: 1.5;
   margin-top: 6px;
-  max-width: 320px;
+  max-width: 280px;
   margin-left: auto;
   margin-right: auto;
 }
