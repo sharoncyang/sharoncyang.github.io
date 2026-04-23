@@ -1,39 +1,37 @@
----
-title: "Home"
----
+::: {.profile-header}
 
-::::: profile-header
-::: profile-image
-<img src="images/Person 2.JPG" alt="Sharon Yang"/>
+::: {.profile-image}
+![](images/Person%202.JPG)
 :::
 
-::: profile-intro
-<h1>Sharon Yang</h1>
+::: {.profile-intro}
+# Sharon Yang
 
 <p>Hello! Welcome to my personal profile! I’m a graduate student in **Business Analytics and AI** at The University of Texas at Dallas. I am interested in **data analytics**, **operations**, and **supply chain analytics**, and I enjoy using data to support better decision-making and improve business performance.</p>
 
 <p>Through my academic, internship, and project experience, I have built hands-on skills in **data analysis**, **reporting**, **pricing analytics**, **risk-related data work**, and **cross-functional collaboration**. I am currently involved in an industry-sponsored project with FleetPride, where I help develop a pricing analytics framework and multi-level price elasticity models to evaluate how pricing decisions affect demand, revenue, and gross profit.</p>
 :::
-:::::
+
+:::
 
 ## Areas of Interest
 
--   Supply Chain Analytics
--   Operations
--   Business Analytics\
--   Pricing Analytics\
--   Data Analysis and Reporting\
--   Business Problem Solving
+- Supply Chain Analytics
+- Operations
+- Business Analytics
+- Pricing Analytics
+- Data Analysis and Reporting
+- Business Problem Solving
 
 ## Technical Skills
 
-**Programming:** Python, SQL (MySQL), R\
-**Data Tools:** Excel (Solver, XLOOKUP, PivotTables), Tableau, Stata\
+**Programming:** Python, SQL (MySQL), R  
+**Data Tools:** Excel (Solver, XLOOKUP, PivotTables), Tableau, Stata  
 **Analytics:** Regression, A/B Testing, Causal Inference, Time Series Analytics, Predictive Analytics, Pricing Analytics
 
 ## Contact Information
 
--   [LinkedIn](https://www.linkedin.com/in/sharon7691)
--   [Email](sharony7691@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sharon7691)
+- [Email](mailto:sharony7691@gmail.com)
 
-------------------------------------------------------------------------
+---
